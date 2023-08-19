@@ -1,0 +1,2 @@
+# DisableMobSpawners
+Minecraft plugin
