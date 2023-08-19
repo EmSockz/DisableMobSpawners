@@ -1,0 +1,5 @@
+name: DisableMobSpawners
+author: EmSockz
+main: me.emsockz.dms.Main
+api-version: 1.13
+version: 1.0
